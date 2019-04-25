@@ -53,6 +53,18 @@
     </ul>
     <h3>Ecosystem</h3>
     <ul>
+          </ul>
+    <h3>Ecosystem</h3>
+    <ul>
+          </ul>
+    <h3>Ecosystem</h3>
+    <ul>
+          </ul>
+    <h3>Ecosystem</h3>
+    <ul>
+          </ul>
+    <h3>Ecosystem</h3>
+    <ul>
       <li>
         <a href="https://router.vuejs.org" target="_blank" rel="noopener"
           >vue-router</a
@@ -82,13 +94,14 @@
           >awesome-vue</a
         >
       </li>
+      
     </ul>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "sean_main",
   props: {
     msg: String
   }
@@ -109,6 +122,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #db874e;
 }
 </style>

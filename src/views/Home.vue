@@ -1,9 +1,18 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <img alt="Vue logo" src="../assets/headshot.jpg" id="img" />
+    <HelloWorld msg="Sean Fleming" />
   </div>
 </template>
+<style>
+ #img{
+height:25%;
+width:25%;
+float:left;
+padding-top:35px;
+}
+  
+</style>
 
 <script>
 // @ is an alias to /src
